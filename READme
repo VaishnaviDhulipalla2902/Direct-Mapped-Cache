@@ -1,0 +1,15 @@
+Cache:
+
+IMT2017031 Phani Tirthala
+IMT2017033 Rahul Murali Shankar
+IMT2017514 Naga Sri Vaishnavi Dhulipalla 
+
+We have plotted all the graphs using the test files given using gnuplot. One of the .dat and .gp files is been uploaded.
+
+Graph1 ---> gcc.txt
+Graph2 ---> gzip.txt
+Graph3 ---> mcf.txt
+Graph4 ---> twolf.txt
+Graph5 ---> swim.txt
+
+We have been varying the size of the cache from 32 to 512 to plot the hitRate vs. cacheSize.
